@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main()
 {
-	int num1,num2;
+	int num1=89,num2=9;
 	int a=10,b=10;
 	printf("sum:%d",a+b);
 	scanf("%d",&num1,&num2);
